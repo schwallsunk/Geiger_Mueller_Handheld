@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-08-02T12:15:25+02:00*%
+%TF.ProjectId,Geiger_counter_LoRaWAN,47656967-6572-45f6-936f-756e7465725f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-08-02 12:15:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X110900000Y-16900000D02*
+X230900000Y-16900000D01*
+X230900000Y-69000000D01*
+X110900000Y-69000000D01*
+X110900000Y-16900000D01*
+M02*
